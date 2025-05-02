@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+
 # Netflix GPT
 
 - Created React App using vite bundler
@@ -66,9 +67,3 @@
 - Netflix-Gpt
   -search bar
   - movie suggestions
-=======
-# NextFlicks-AI-
->>>>>>> a43df211e76fde499da2b6343401a0caf28fc7d5
-=======
-# NextFlicks-AI-
->>>>>>> a43df211e76fde499da2b6343401a0caf28fc7d5
