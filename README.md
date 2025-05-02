@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 # Netflix GPT
 
 - Created React App using vite bundler
