@@ -1,4 +1,4 @@
-# Netflix GPT
+# Netflicks AI
 
 - Created React App using vite bundler
 - Configured Tailwind CSS
